@@ -2,7 +2,7 @@
 
 This project is about detecting the emotions through facial expressions.  
 This project uses following libraries:
-   > Keras  
+   > keras  
   > tensorflow  
  > numpy  
 > cv2  
