@@ -7,5 +7,5 @@ This project uses following libraries:
    > numpy
    > cv2
 
-This project uses pretrained model: "_mini_XCEPTION.102-0.66.hdf5"
+This project uses pretrained model: "_mini_XCEPTION.102-0.66.hdf5".
 The dataset used to train this model is fer2013
